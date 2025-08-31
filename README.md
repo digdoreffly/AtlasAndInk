@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# Detail Project 
+- Vue js
+- Bootsrap 5
+- axios
+  
+
